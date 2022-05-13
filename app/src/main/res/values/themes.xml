@@ -19,7 +19,4 @@
         <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="Theme.DANP_Lab_02_00.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
-
-    <style name="Theme.DANP_Lab_02_00.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
